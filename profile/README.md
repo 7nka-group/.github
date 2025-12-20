@@ -10,12 +10,10 @@ Multaqa Al-hinkah is an Arabic community on Discord and formerly (Twitter/X) wit
 
 ### Interests
 
-|--------------|---------------|-------------------|
-| ![](200w.gif) | ![](linux.gif) | ![](calculus.gif) |
-|--------------|---------------|-------------------|
-| ![](charger.gif) | ![](steam.gif) | ![](codbo1meme.gif) | ![](arma-3.gif)
-|--------------|---------------|-------------------|
-| ![](java.gif) | ![](mlzlz.gif) | ![](jeflump.gif) |
+| <img src="200w.gif" width="120"/> | <img src="linux.gif" width="120"/> | <img src="calculus.gif" width="120"/> |
+|----------------------------------|-----------------------------------|---------------------------------------|
+| <img src="charger.gif" width="120"/> | <img src="steam.gif" width="120"/> | <img src="codbo1meme.gif" width="120"/> |
+| <img src="java.gif" width="120"/> | <img src="mlzlz.gif" width="120"/> | <img src="jeflump.gif" width="120"/> |
 
 
 
