@@ -1,20 +1,26 @@
-# مرحبا بالجميع في مجتمع "ملئ الفراغات بالتراكم" للمشاريع الحرة ومفتوحة المصدر / Welcome to STACKS the NULLS open source community for development
+# Welcome - مرحباً
 
-## مقدمة
-ملئ الفراغات بالتراكم هو فريق ناشئ في علم البيانات وتطوير الويب والبرمجة وله أعمال مثل :
-- [LibraryDB](https://librarydb.netlify.app) : موقع يهتم بالكتب والمؤلفين وتاريخها منذ فجر البشرية حتى القرن الواحد والعشرين , الموقع مميز وفيه خاصية ذكاء إصطناعي مبنية على نموذج كلاود .
-- [MotorDB](https://motordb.netlify.app) : موقع يهتم بتقييم السيارات ومواصفاتها وفيه صورة عشوائية لسيارة كل 12 ساعة , يعتبر نسخة مبدئية جداً من مشروع كبير .
+![logo](7NKA.png)
 
-**المجتمع هذا مفصول بشكل أو بآخر عن الفريق واعضائه الرسميين** , لأن المشاريع هنا تكون مفتوحة المصدر ومسموح للجميع برؤية الكود الخاص بها بل وأخذ نسخة منها عبر ميزة الـ`Fork` في Github وتعديله كما تشاء , كذلك يمكنك طلب تعديل الكود في المشروع الأساسي وسيتم النظر له بشكل رسمي من أصحاب المجتمع .
-أيضا يمكنك طلب المشرفين إضافة مشروعك الخاص في الصفحة الرئيسية للمجتمع , ولكن عليك أن تعلم أنه حق للجميع وبإمكانهم أخذ نسخ خاصة منه وتعديله بل والربح منه ولكن تحت رخصة `MIT` أو `GNU` بحيث يتم إرضاء الجميع إن شاء الله . كذلك أي مشروع خادش للحياء أو ينافي عقيدتنا الإسلامية يتم طلب إضافته للمنظمة سيتم رفض الطلب وممكن أن يتم تحذيرك أو طردك من المجتمع .
+##### عربي
+ملتقى الحنكة هو مجتمع عربي في ديسكورد وسابقاً (تويتر/إكس) ذو إهتمامات عدة مثل البرمجة والتقنية وألعاب الفيديو والتاريخ والقراءة , هنا لن تجد إلا المشاريع البرمجية الخاصة بالمجتمع.
 
-#### أحترم تحترم
-فالجميع هنا مختلفين عن بعض والهدف الأساسي هو فقط نشر البرمجيات والإستفادة منها وليس المشاكل والفتن .
-##### مع تمنياتنا لكم بالتوفيق
-**[`Saad Almalki`](https://github.com/Saad711T)** : Open source community moderator
+##### English
+Multaqa Al-hinkah is an Arabic community on Discord and formerly (Twitter/X) with several interests such as programming, technology, video games, history and reading. Here you will only find community-specific projects.
 
-## الحسابات الأخرى للفريق
-- [Github](https://github.com/stacksthenull) : وفيه المشاريع الأصلية لأصحاب الفريق
-- [Instagram](https://www.instagram.com/stacksthenulls)
-- [X.com](https://x.com/stacksthenulls)
-- [LinkedIn](https://www.linkedin.com/company/stacks-the-nulls)
+### Interests
+
+![logo2](w200.gif)
+
+- Video Games (ARMA3 - Battlefield 6/4/1/3/Hardline - Minecraft - Garry's mod - CS2 - TF2 - Overwatch 2 - Cod MW2/MW3/BO2/BO3/BO/MW 2019 - PEAK - HOI4 - GTA V/IV/San Andreas)
+- Programming and Development
+- History and Science
+- General conversations
+
+### For more
+See [Stacks The NULLS](https://stacksthenulls.netlify.app) the techinical company of 7nka group , Check accounts :
+
+- [X.com](https://x.com/no_mohanek)
+- [Youtube](https://youtube.com/channel/@ملتقىالحنكة)
+
+#### THX for your time XD
