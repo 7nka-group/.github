@@ -10,7 +10,14 @@ Multaqa Al-hinkah is an Arabic community on Discord and formerly (Twitter/X) wit
 
 ### Interests
 
-![logo2](200w.gif)
+|--------------|---------------|-------------------|
+| ![](200w.gif) | ![](linux.gif) | ![](calculus.gif) |
+|--------------|---------------|-------------------|
+| ![](charger.gif) | ![](steam.gif) | ![](codbo1meme.gif) | ![](arma-3.gif)
+|--------------|---------------|-------------------|
+| ![](java.gif) | ![](mlzlz.gif) | ![](jeflump.gif) |
+
+
 
 - Video Games (ARMA3 - Battlefield 6/4/1/3/Hardline - Minecraft - Garry's mod - CS2 - TF2 - Overwatch 2 - Cod MW2/MW3/BO2/BO3/BO/MW 2019 - PEAK - HOI4 - GTA V/IV/San Andreas)
 - Programming and Development
