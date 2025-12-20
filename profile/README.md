@@ -1,6 +1,6 @@
 # Welcome - مرحباً
 
-![logo](7NKA.png)
+<img src="7NKA.png" alt="logo" width="500px" />
 
 ##### عربي
 ملتقى الحنكة هو مجتمع عربي في ديسكورد وسابقاً (تويتر/إكس) ذو إهتمامات عدة مثل البرمجة والتقنية وألعاب الفيديو والتاريخ والقراءة , هنا لن تجد إلا المشاريع البرمجية الخاصة بالمجتمع.
@@ -10,7 +10,7 @@ Multaqa Al-hinkah is an Arabic community on Discord and formerly (Twitter/X) wit
 
 ### Interests
 
-![logo2](w200.gif)
+![logo2](200w.gif)
 
 - Video Games (ARMA3 - Battlefield 6/4/1/3/Hardline - Minecraft - Garry's mod - CS2 - TF2 - Overwatch 2 - Cod MW2/MW3/BO2/BO3/BO/MW 2019 - PEAK - HOI4 - GTA V/IV/San Andreas)
 - Programming and Development
